@@ -30,16 +30,13 @@ public class Bin {
                     b = 2;
                 }
             }
+            System.out.println(num + " in binary is " + binNumFin);
             
 
 
-
-                
-
-            }
-
-
         }
+
+
     }
 }
             
