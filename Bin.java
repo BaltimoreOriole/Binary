@@ -1,7 +1,9 @@
 import java.util.Scanner;
 public class Bin {
-    public static void main(String[] args) { 
-        public binTrans() {
+
+
+        public void binTrans() {
+
             Scanner scanner = new Scanner (System.in);
             int egg = 1;  
             
@@ -34,12 +36,8 @@ public class Bin {
                 }
                 System.out.println(num + " in binary is " + binNumFin);
             }
-        }    
-
-
-        
-
-
-    }
+            
+        }   
+         
 }
             
